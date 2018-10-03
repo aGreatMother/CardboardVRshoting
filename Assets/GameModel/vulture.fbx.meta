@@ -1,0 +1,3256 @@
+fileFormatVersion: 2
+guid: 83b639ce708a09442a75a37e37b12fba
+timeCreated: 1438931962
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: BODY
+    100002: //RootNode
+    100004: Feathers_L
+    100006: Feathers_R
+    100008: Head
+    100010: joint_Bottom
+    100012: joint_Bottom 1
+    100014: joint_Bottom 2
+    100016: joint_Bottom 3
+    100018: joint_Bottom 4
+    100020: joint_Middle
+    100022: joint_Middle 1
+    100024: joint_Middle 2
+    100026: joint_Middle 3
+    100028: joint_Middle 4
+    100030: joint_Top
+    100032: joint_Top 1
+    100034: joint_Top 2
+    100036: joint_Top 3
+    100038: joint_Top 4
+    100040: MESH
+    100042: MESH 1
+    100044: MESH 2
+    100046: MESH 3
+    100048: MESH 4
+    100050: MODEL
+    100052: MODEL 1
+    100054: MODEL 2
+    100056: MODEL 3
+    100058: MODEL 4
+    100060: SKELETON
+    100062: SKELETON 1
+    100064: SKELETON 2
+    100066: SKELETON 3
+    100068: SKELETON 4
+    100070: TAIL
+    100072: WINGL
+    100074: WINGR
+    100076: BODY 1
+    100078: CTRL_MAIN
+    100080: eye
+    100082: HEAD
+    100084: joint1
+    100086: joint_Bottom 5
+    100088: joint_Bottom 6
+    100090: joint_Bottom 7
+    100092: joint_Bottom 8
+    100094: joint_Bottom 9
+    100096: joint_Middle 5
+    100098: joint_Middle 6
+    100100: joint_Middle 7
+    100102: joint_Middle 8
+    100104: joint_Middle 9
+    100106: joint_Top 5
+    100108: joint_Top 6
+    100110: joint_Top 7
+    100112: joint_Top 8
+    100114: joint_Top 9
+    100116: MESH1
+    100118: MESH2
+    100120: MESH3
+    100122: MESH4
+    100124: MESH5
+    100126: MESH6
+    100128: MESH7
+    100130: MESHES
+    100132: model
+    100134: offset
+    100136: pCube1
+    100138: pCube2
+    100140: TAIL 1
+    100142: TOFU_0
+    100144: TOFU_1
+    100146: TOFU_2
+    100148: TOFU_3
+    100150: ctrl_Main
+    100152: joint_Head
+    100154: MODELS
+    100156: offset_playerPos
+    100158: OTHER
+    100160: playerPos
+    100162: FOOT_L
+    100164: FOOT_R
+    100166: LEG_L
+    100168: LEG_R
+    100170: SKELETON 5
+    100172: SKELETON 6
+    100174: HEAD 1
+    100176: joint_end
+    100178: joint_mid1
+    100180: joint_mid2
+    100182: joint_mid3
+    100184: joint_root
+    100186: LEG_L 1
+    100188: LEG_R 1
+    100190: NECK
+    100192: NECK 1
+    100194: SKELETON 7
+    100196: WING_L
+    100198: WING_R
+    100200: Bottom
+    100202: Bottom 1
+    100204: Bottom 2
+    100206: Bottom 3
+    100208: Bottom 4
+    100210: Bottom 5
+    100212: ctrl_Head
+    100214: CTRLS
+    100216: CTRLS 1
+    100218: CTRLS 2
+    100220: CTRLS 3
+    100222: CTRLS 4
+    100224: CTRLS 5
+    100226: CTRLS 6
+    100228: CTRLS 7
+    100230: end
+    100232: mid_1
+    100234: mid_2
+    100236: mid_3
+    100238: Middle
+    100240: Middle 1
+    100242: Middle 2
+    100244: Middle 3
+    100246: Middle 4
+    100248: Middle 5
+    100250: offset_Bottom
+    100252: offset_Bottom 1
+    100254: offset_Bottom 2
+    100256: offset_Bottom 3
+    100258: offset_Bottom 4
+    100260: offset_Bottom 5
+    100262: offset_end
+    100264: offset_Head
+    100266: offset_mid1
+    100268: offset_mid2
+    100270: offset_mid3
+    100272: offset_Middle
+    100274: offset_Middle 1
+    100276: offset_Middle 2
+    100278: offset_Middle 3
+    100280: offset_Middle 4
+    100282: offset_Middle 5
+    100284: offset_root
+    100286: offset_Top
+    100288: offset_Top 1
+    100290: offset_Top 2
+    100292: offset_Top 3
+    100294: offset_Top 4
+    100296: offset_Top 5
+    100298: root
+    100300: Top
+    100302: Top 1
+    100304: Top 2
+    100306: Top 3
+    100308: Top 4
+    100310: Top 5
+    100312: DONOTBATCH
+    100314: skin_1
+    100316: skin_2
+    100318: skin_3
+    100320: skin_4
+    100322: skin_5
+    100324: skin_02
+    100326: skin_03
+    100328: skin_04a
+    100330: skin_04b
+    100332: skin_05a
+    100334: skin_05b
+    100336: skin_01a
+    100338: skin_01b
+    400000: BODY
+    400002: //RootNode
+    400004: Feathers_L
+    400006: Feathers_R
+    400008: Head
+    400010: joint_Bottom
+    400012: joint_Bottom 1
+    400014: joint_Bottom 2
+    400016: joint_Bottom 3
+    400018: joint_Bottom 4
+    400020: joint_Middle
+    400022: joint_Middle 1
+    400024: joint_Middle 2
+    400026: joint_Middle 3
+    400028: joint_Middle 4
+    400030: joint_Top
+    400032: joint_Top 1
+    400034: joint_Top 2
+    400036: joint_Top 3
+    400038: joint_Top 4
+    400040: MESH
+    400042: MESH 1
+    400044: MESH 2
+    400046: MESH 3
+    400048: MESH 4
+    400050: MODEL
+    400052: MODEL 1
+    400054: MODEL 2
+    400056: MODEL 3
+    400058: MODEL 4
+    400060: SKELETON
+    400062: SKELETON 1
+    400064: SKELETON 2
+    400066: SKELETON 3
+    400068: SKELETON 4
+    400070: TAIL
+    400072: WINGL
+    400074: WINGR
+    400076: BODY 1
+    400078: CTRL_MAIN
+    400080: eye
+    400082: HEAD
+    400084: joint1
+    400086: joint_Bottom 5
+    400088: joint_Bottom 6
+    400090: joint_Bottom 7
+    400092: joint_Bottom 8
+    400094: joint_Bottom 9
+    400096: joint_Middle 5
+    400098: joint_Middle 6
+    400100: joint_Middle 7
+    400102: joint_Middle 8
+    400104: joint_Middle 9
+    400106: joint_Top 5
+    400108: joint_Top 6
+    400110: joint_Top 7
+    400112: joint_Top 8
+    400114: joint_Top 9
+    400116: MESH1
+    400118: MESH2
+    400120: MESH3
+    400122: MESH4
+    400124: MESH5
+    400126: MESH6
+    400128: MESH7
+    400130: MESHES
+    400132: model
+    400134: offset
+    400136: pCube1
+    400138: pCube2
+    400140: TAIL 1
+    400142: TOFU_0
+    400144: TOFU_1
+    400146: TOFU_2
+    400148: TOFU_3
+    400150: ctrl_Main
+    400152: joint_Head
+    400154: MODELS
+    400156: offset_playerPos
+    400158: OTHER
+    400160: playerPos
+    400162: FOOT_L
+    400164: FOOT_R
+    400166: LEG_L
+    400168: LEG_R
+    400170: SKELETON 5
+    400172: SKELETON 6
+    400174: HEAD 1
+    400176: joint_end
+    400178: joint_mid1
+    400180: joint_mid2
+    400182: joint_mid3
+    400184: joint_root
+    400186: LEG_L 1
+    400188: LEG_R 1
+    400190: NECK
+    400192: NECK 1
+    400194: SKELETON 7
+    400196: WING_L
+    400198: WING_R
+    400200: Bottom
+    400202: Bottom 1
+    400204: Bottom 2
+    400206: Bottom 3
+    400208: Bottom 4
+    400210: Bottom 5
+    400212: ctrl_Head
+    400214: CTRLS
+    400216: CTRLS 1
+    400218: CTRLS 2
+    400220: CTRLS 3
+    400222: CTRLS 4
+    400224: CTRLS 5
+    400226: CTRLS 6
+    400228: CTRLS 7
+    400230: end
+    400232: mid_1
+    400234: mid_2
+    400236: mid_3
+    400238: Middle
+    400240: Middle 1
+    400242: Middle 2
+    400244: Middle 3
+    400246: Middle 4
+    400248: Middle 5
+    400250: offset_Bottom
+    400252: offset_Bottom 1
+    400254: offset_Bottom 2
+    400256: offset_Bottom 3
+    400258: offset_Bottom 4
+    400260: offset_Bottom 5
+    400262: offset_end
+    400264: offset_Head
+    400266: offset_mid1
+    400268: offset_mid2
+    400270: offset_mid3
+    400272: offset_Middle
+    400274: offset_Middle 1
+    400276: offset_Middle 2
+    400278: offset_Middle 3
+    400280: offset_Middle 4
+    400282: offset_Middle 5
+    400284: offset_root
+    400286: offset_Top
+    400288: offset_Top 1
+    400290: offset_Top 2
+    400292: offset_Top 3
+    400294: offset_Top 4
+    400296: offset_Top 5
+    400298: root
+    400300: Top
+    400302: Top 1
+    400304: Top 2
+    400306: Top 3
+    400308: Top 4
+    400310: Top 5
+    400312: DONOTBATCH
+    400314: skin_1
+    400316: skin_2
+    400318: skin_3
+    400320: skin_4
+    400322: skin_5
+    400324: skin_02
+    400326: skin_03
+    400328: skin_04a
+    400330: skin_04b
+    400332: skin_05a
+    400334: skin_05b
+    400336: skin_01a
+    400338: skin_01b
+    2300000: pCube1
+    2300002: pCube2
+    2300004: skin_1
+    2300006: skin_2
+    2300008: skin_3
+    2300010: skin_4
+    2300012: skin_5
+    2300014: skin_04a
+    3300000: pCube1
+    3300002: pCube2
+    3300004: skin_1
+    3300006: skin_2
+    3300008: skin_3
+    3300010: skin_4
+    3300012: skin_5
+    3300014: skin_04a
+    4300000: MESH
+    4300002: MESH
+    4300004: MESH
+    4300006: Feathers_R
+    4300008: Feathers_L
+    4300010: MESH
+    4300012: MESH
+    4300014: eye
+    4300016: MESH1
+    4300018: MESH2
+    4300020: MESH3
+    4300022: MESH4
+    4300024: MESH5
+    4300026: MESH6
+    4300028: MESH7
+    4300030: pCube1
+    4300032: pCube2
+    4300034: HEAD
+    4300036: FOOT_L
+    4300038: FOOT_R
+    4300040: BODY
+    4300042: WING_R
+    4300044: WING_L
+    4300046: TAIL
+    4300048: LEG_L
+    4300050: LEG_R
+    4300052: NECK
+    4300054: skin_1
+    4300056: skin_2
+    4300058: skin_3
+    4300060: skin_4
+    4300062: skin_5
+    4300064: skin_02
+    4300066: skin_03
+    4300068: skin_04a
+    4300070: skin_04b
+    4300072: skin_05a
+    4300074: skin_05b
+    4300076: skin_01a
+    4300078: skin_01b
+    7400000: 3D_vulture_buck
+    7400002: 3D_vulture_run
+    7400004: 3D_vulture_ridden
+    7400006: 3D_vulture_crash
+    7400008: 3D_vulture_dizzy
+    7400010: 3D_vulture_flyUp
+    7400012: 3D_vulture_special
+    7400014: 3D_vulture_idle
+    7400016: 3D_vulture_walk
+    7400018: 3D_vulture_happy
+    9500000: //RootNode
+    13700000: Feathers_L
+    13700002: Feathers_R
+    13700004: MESH
+    13700006: MESH 1
+    13700008: MESH 2
+    13700010: MESH 3
+    13700012: MESH 4
+    13700014: eye
+    13700016: MESH1
+    13700018: MESH2
+    13700020: MESH3
+    13700022: MESH4
+    13700024: MESH5
+    13700026: MESH6
+    13700028: MESH7
+    13700030: HEAD
+    13700032: FOOT_L
+    13700034: FOOT_R
+    13700036: BODY
+    13700038: LEG_L
+    13700040: LEG_R
+    13700042: NECK
+    13700044: TAIL
+    13700046: WING_L
+    13700048: WING_R
+    13700050: skin_1
+    13700052: skin_2
+    13700054: skin_3
+    13700056: skin_4
+    13700058: skin_5
+    13700060: skin_02
+    13700062: skin_03
+    13700064: skin_04b
+    13700066: skin_05a
+    13700068: skin_05b
+    13700070: skin_01a
+    13700072: skin_01b
+    13700074: skin_04a
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: 3D_vulture_buck
+      takeName: Take 001
+      firstFrame: 431
+      lastFrame: 475
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: offset
+        weight: 1
+      - path: offset/ctrl_Main
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Bottom
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Bottom/Bottom
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Middle
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Middle/Middle
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Top
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Top/Top
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/SKELETON
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/SKELETON/joint_Bottom
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/SKELETON/joint_Middle
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/SKELETON/joint_Top
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/CTRLS 1
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/CTRLS 1/offset_Head
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/CTRLS 1/offset_Head/ctrl_Head
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/SKELETON 1
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/SKELETON 1/joint_Head
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Bottom 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Bottom 1/Bottom 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Middle 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Middle 1/Middle 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Top 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Top 1/Top 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/SKELETON 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/SKELETON 2/joint_Bottom 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/SKELETON 2/joint_Middle 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/SKELETON 2/joint_Top 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Bottom 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Bottom 2/Bottom 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Middle 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Middle 2/Middle 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Top 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Top 2/Top 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/SKELETON 3
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/SKELETON 3/joint_Bottom 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/SKELETON 3/joint_Middle 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/SKELETON 3/joint_Top 2
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_end
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_end/end
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid1
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid1/mid_1
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid2
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid2/mid_2
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid3
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid3/mid_3
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_root
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_root/root
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_end
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_mid1
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_mid2
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_mid3
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_root
+        weight: 1
+      - path: offset/ctrl_Main/offset_playerPos
+        weight: 1
+      - path: offset/ctrl_Main/offset_playerPos/playerPos
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Bottom 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Bottom 3/Bottom 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Middle 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Middle 3/Middle 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Top 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Top 3/Top 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/SKELETON 5
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/SKELETON 5/joint_Bottom 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/SKELETON 5/joint_Middle 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/SKELETON 5/joint_Top 3
+        weight: 1
+      - path: offset/ctrl_Main/WINGL
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Bottom 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Bottom 4/Bottom 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Middle 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Middle 4/Middle 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Top 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Top 4/Top 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/SKELETON 6
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/SKELETON 6/joint_Bottom 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/SKELETON 6/joint_Middle 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/SKELETON 6/joint_Top 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGR
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Bottom 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Bottom 5/Bottom 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Middle 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Middle 5/Middle 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Top 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Top 5/Top 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/SKELETON 7
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/SKELETON 7/joint_Bottom 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/SKELETON 7/joint_Middle 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/SKELETON 7/joint_Top 5
+        weight: 1
+      - path: offset/MESHES
+        weight: 1
+      - path: offset/MESHES/BODY
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/eye
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_01a
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_01b
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_02
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_03
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_04a
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_04b
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_05a
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_05b
+        weight: 1
+      - path: offset/MESHES/Feathers_L
+        weight: 1
+      - path: offset/MESHES/Feathers_R
+        weight: 1
+      - path: offset/MESHES/FOOT_L
+        weight: 1
+      - path: offset/MESHES/FOOT_R
+        weight: 1
+      - path: offset/MESHES/HEAD
+        weight: 1
+      - path: offset/MESHES/LEG_L
+        weight: 1
+      - path: offset/MESHES/LEG_R
+        weight: 1
+      - path: offset/MESHES/NECK
+        weight: 1
+      - path: offset/MESHES/TAIL
+        weight: 1
+      - path: offset/MESHES/WING_L
+        weight: 1
+      - path: offset/MESHES/WING_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 3D_vulture_run
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: offset
+        weight: 1
+      - path: offset/ctrl_Main
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Bottom
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Bottom/Bottom
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Middle
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Middle/Middle
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Top
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Top/Top
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/SKELETON
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/SKELETON/joint_Bottom
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/SKELETON/joint_Middle
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/SKELETON/joint_Top
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/CTRLS 1
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/CTRLS 1/offset_Head
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/CTRLS 1/offset_Head/ctrl_Head
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/SKELETON 1
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/SKELETON 1/joint_Head
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Bottom 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Bottom 1/Bottom 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Middle 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Middle 1/Middle 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Top 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Top 1/Top 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/SKELETON 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/SKELETON 2/joint_Bottom 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/SKELETON 2/joint_Middle 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/SKELETON 2/joint_Top 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Bottom 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Bottom 2/Bottom 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Middle 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Middle 2/Middle 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Top 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Top 2/Top 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/SKELETON 3
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/SKELETON 3/joint_Bottom 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/SKELETON 3/joint_Middle 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/SKELETON 3/joint_Top 2
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_end
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_end/end
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid1
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid1/mid_1
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid2
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid2/mid_2
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid3
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid3/mid_3
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_root
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_root/root
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_end
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_mid1
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_mid2
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_mid3
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_root
+        weight: 1
+      - path: offset/ctrl_Main/offset_playerPos
+        weight: 1
+      - path: offset/ctrl_Main/offset_playerPos/playerPos
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Bottom 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Bottom 3/Bottom 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Middle 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Middle 3/Middle 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Top 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Top 3/Top 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/SKELETON 5
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/SKELETON 5/joint_Bottom 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/SKELETON 5/joint_Middle 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/SKELETON 5/joint_Top 3
+        weight: 1
+      - path: offset/ctrl_Main/WINGL
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Bottom 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Bottom 4/Bottom 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Middle 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Middle 4/Middle 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Top 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Top 4/Top 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/SKELETON 6
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/SKELETON 6/joint_Bottom 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/SKELETON 6/joint_Middle 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/SKELETON 6/joint_Top 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGR
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Bottom 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Bottom 5/Bottom 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Middle 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Middle 5/Middle 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Top 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Top 5/Top 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/SKELETON 7
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/SKELETON 7/joint_Bottom 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/SKELETON 7/joint_Middle 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/SKELETON 7/joint_Top 5
+        weight: 1
+      - path: offset/MESHES
+        weight: 1
+      - path: offset/MESHES/BODY
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/eye
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_01a
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_01b
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_02
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_03
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_04a
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_04b
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_05a
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_05b
+        weight: 1
+      - path: offset/MESHES/Feathers_L
+        weight: 1
+      - path: offset/MESHES/Feathers_R
+        weight: 1
+      - path: offset/MESHES/FOOT_L
+        weight: 1
+      - path: offset/MESHES/FOOT_R
+        weight: 1
+      - path: offset/MESHES/HEAD
+        weight: 1
+      - path: offset/MESHES/LEG_L
+        weight: 1
+      - path: offset/MESHES/LEG_R
+        weight: 1
+      - path: offset/MESHES/NECK
+        weight: 1
+      - path: offset/MESHES/TAIL
+        weight: 1
+      - path: offset/MESHES/WING_L
+        weight: 1
+      - path: offset/MESHES/WING_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 3D_vulture_ridden
+      takeName: Take 001
+      firstFrame: 31
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: offset
+        weight: 1
+      - path: offset/ctrl_Main
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Bottom
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Bottom/Bottom
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Middle
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Middle/Middle
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Top
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Top/Top
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/SKELETON
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/SKELETON/joint_Bottom
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/SKELETON/joint_Middle
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/SKELETON/joint_Top
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/CTRLS 1
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/CTRLS 1/offset_Head
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/CTRLS 1/offset_Head/ctrl_Head
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/SKELETON 1
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/SKELETON 1/joint_Head
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Bottom 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Bottom 1/Bottom 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Middle 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Middle 1/Middle 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Top 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Top 1/Top 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/SKELETON 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/SKELETON 2/joint_Bottom 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/SKELETON 2/joint_Middle 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/SKELETON 2/joint_Top 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Bottom 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Bottom 2/Bottom 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Middle 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Middle 2/Middle 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Top 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Top 2/Top 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/SKELETON 3
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/SKELETON 3/joint_Bottom 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/SKELETON 3/joint_Middle 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/SKELETON 3/joint_Top 2
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_end
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_end/end
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid1
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid1/mid_1
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid2
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid2/mid_2
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid3
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid3/mid_3
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_root
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_root/root
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_end
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_mid1
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_mid2
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_mid3
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_root
+        weight: 1
+      - path: offset/ctrl_Main/offset_playerPos
+        weight: 1
+      - path: offset/ctrl_Main/offset_playerPos/playerPos
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Bottom 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Bottom 3/Bottom 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Middle 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Middle 3/Middle 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Top 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Top 3/Top 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/SKELETON 5
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/SKELETON 5/joint_Bottom 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/SKELETON 5/joint_Middle 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/SKELETON 5/joint_Top 3
+        weight: 1
+      - path: offset/ctrl_Main/WINGL
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Bottom 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Bottom 4/Bottom 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Middle 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Middle 4/Middle 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Top 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Top 4/Top 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/SKELETON 6
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/SKELETON 6/joint_Bottom 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/SKELETON 6/joint_Middle 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/SKELETON 6/joint_Top 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGR
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Bottom 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Bottom 5/Bottom 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Middle 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Middle 5/Middle 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Top 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Top 5/Top 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/SKELETON 7
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/SKELETON 7/joint_Bottom 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/SKELETON 7/joint_Middle 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/SKELETON 7/joint_Top 5
+        weight: 1
+      - path: offset/MESHES
+        weight: 1
+      - path: offset/MESHES/BODY
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/eye
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_01a
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_01b
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_02
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_03
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_04a
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_04b
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_05a
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_05b
+        weight: 1
+      - path: offset/MESHES/Feathers_L
+        weight: 1
+      - path: offset/MESHES/Feathers_R
+        weight: 1
+      - path: offset/MESHES/FOOT_L
+        weight: 1
+      - path: offset/MESHES/FOOT_R
+        weight: 1
+      - path: offset/MESHES/HEAD
+        weight: 1
+      - path: offset/MESHES/LEG_L
+        weight: 1
+      - path: offset/MESHES/LEG_R
+        weight: 1
+      - path: offset/MESHES/NECK
+        weight: 1
+      - path: offset/MESHES/TAIL
+        weight: 1
+      - path: offset/MESHES/WING_L
+        weight: 1
+      - path: offset/MESHES/WING_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 3D_vulture_crash
+      takeName: Take 001
+      firstFrame: 110
+      lastFrame: 147
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: offset
+        weight: 1
+      - path: offset/ctrl_Main
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Bottom
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Bottom/Bottom
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Middle
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Middle/Middle
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Top
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Top/Top
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/SKELETON
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/SKELETON/joint_Bottom
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/SKELETON/joint_Middle
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/SKELETON/joint_Top
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/CTRLS 1
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/CTRLS 1/offset_Head
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/CTRLS 1/offset_Head/ctrl_Head
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/SKELETON 1
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/SKELETON 1/joint_Head
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Bottom 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Bottom 1/Bottom 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Middle 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Middle 1/Middle 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Top 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Top 1/Top 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/SKELETON 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/SKELETON 2/joint_Bottom 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/SKELETON 2/joint_Middle 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/SKELETON 2/joint_Top 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Bottom 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Bottom 2/Bottom 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Middle 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Middle 2/Middle 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Top 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Top 2/Top 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/SKELETON 3
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/SKELETON 3/joint_Bottom 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/SKELETON 3/joint_Middle 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/SKELETON 3/joint_Top 2
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_end
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_end/end
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid1
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid1/mid_1
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid2
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid2/mid_2
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid3
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid3/mid_3
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_root
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_root/root
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_end
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_mid1
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_mid2
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_mid3
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_root
+        weight: 1
+      - path: offset/ctrl_Main/offset_playerPos
+        weight: 1
+      - path: offset/ctrl_Main/offset_playerPos/playerPos
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Bottom 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Bottom 3/Bottom 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Middle 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Middle 3/Middle 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Top 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Top 3/Top 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/SKELETON 5
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/SKELETON 5/joint_Bottom 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/SKELETON 5/joint_Middle 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/SKELETON 5/joint_Top 3
+        weight: 1
+      - path: offset/ctrl_Main/WINGL
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Bottom 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Bottom 4/Bottom 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Middle 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Middle 4/Middle 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Top 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Top 4/Top 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/SKELETON 6
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/SKELETON 6/joint_Bottom 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/SKELETON 6/joint_Middle 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/SKELETON 6/joint_Top 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGR
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Bottom 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Bottom 5/Bottom 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Middle 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Middle 5/Middle 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Top 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Top 5/Top 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/SKELETON 7
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/SKELETON 7/joint_Bottom 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/SKELETON 7/joint_Middle 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/SKELETON 7/joint_Top 5
+        weight: 1
+      - path: offset/MESHES
+        weight: 1
+      - path: offset/MESHES/BODY
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/eye
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_01a
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_01b
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_02
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_03
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_04a
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_04b
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_05a
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_05b
+        weight: 1
+      - path: offset/MESHES/Feathers_L
+        weight: 1
+      - path: offset/MESHES/Feathers_R
+        weight: 1
+      - path: offset/MESHES/FOOT_L
+        weight: 1
+      - path: offset/MESHES/FOOT_R
+        weight: 1
+      - path: offset/MESHES/HEAD
+        weight: 1
+      - path: offset/MESHES/LEG_L
+        weight: 1
+      - path: offset/MESHES/LEG_R
+        weight: 1
+      - path: offset/MESHES/NECK
+        weight: 1
+      - path: offset/MESHES/TAIL
+        weight: 1
+      - path: offset/MESHES/WING_L
+        weight: 1
+      - path: offset/MESHES/WING_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 3D_vulture_dizzy
+      takeName: Take 001
+      firstFrame: 148
+      lastFrame: 149
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: offset
+        weight: 1
+      - path: offset/ctrl_Main
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Bottom
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Bottom/Bottom
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Middle
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Middle/Middle
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Top
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Top/Top
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/SKELETON
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/SKELETON/joint_Bottom
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/SKELETON/joint_Middle
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/SKELETON/joint_Top
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/CTRLS 1
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/CTRLS 1/offset_Head
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/CTRLS 1/offset_Head/ctrl_Head
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/SKELETON 1
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/SKELETON 1/joint_Head
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Bottom 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Bottom 1/Bottom 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Middle 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Middle 1/Middle 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Top 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Top 1/Top 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/SKELETON 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/SKELETON 2/joint_Bottom 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/SKELETON 2/joint_Middle 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/SKELETON 2/joint_Top 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Bottom 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Bottom 2/Bottom 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Middle 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Middle 2/Middle 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Top 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Top 2/Top 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/SKELETON 3
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/SKELETON 3/joint_Bottom 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/SKELETON 3/joint_Middle 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/SKELETON 3/joint_Top 2
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_end
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_end/end
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid1
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid1/mid_1
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid2
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid2/mid_2
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid3
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid3/mid_3
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_root
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_root/root
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_end
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_mid1
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_mid2
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_mid3
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_root
+        weight: 1
+      - path: offset/ctrl_Main/offset_playerPos
+        weight: 1
+      - path: offset/ctrl_Main/offset_playerPos/playerPos
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Bottom 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Bottom 3/Bottom 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Middle 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Middle 3/Middle 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Top 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Top 3/Top 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/SKELETON 5
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/SKELETON 5/joint_Bottom 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/SKELETON 5/joint_Middle 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/SKELETON 5/joint_Top 3
+        weight: 1
+      - path: offset/ctrl_Main/WINGL
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Bottom 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Bottom 4/Bottom 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Middle 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Middle 4/Middle 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Top 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Top 4/Top 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/SKELETON 6
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/SKELETON 6/joint_Bottom 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/SKELETON 6/joint_Middle 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/SKELETON 6/joint_Top 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGR
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Bottom 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Bottom 5/Bottom 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Middle 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Middle 5/Middle 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Top 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Top 5/Top 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/SKELETON 7
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/SKELETON 7/joint_Bottom 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/SKELETON 7/joint_Middle 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/SKELETON 7/joint_Top 5
+        weight: 1
+      - path: offset/MESHES
+        weight: 1
+      - path: offset/MESHES/BODY
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/eye
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_01a
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_01b
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_02
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_03
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_04a
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_04b
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_05a
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_05b
+        weight: 1
+      - path: offset/MESHES/Feathers_L
+        weight: 1
+      - path: offset/MESHES/Feathers_R
+        weight: 1
+      - path: offset/MESHES/FOOT_L
+        weight: 1
+      - path: offset/MESHES/FOOT_R
+        weight: 1
+      - path: offset/MESHES/HEAD
+        weight: 1
+      - path: offset/MESHES/LEG_L
+        weight: 1
+      - path: offset/MESHES/LEG_R
+        weight: 1
+      - path: offset/MESHES/NECK
+        weight: 1
+      - path: offset/MESHES/TAIL
+        weight: 1
+      - path: offset/MESHES/WING_L
+        weight: 1
+      - path: offset/MESHES/WING_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 3D_vulture_flyUp
+      takeName: Take 001
+      firstFrame: 151
+      lastFrame: 180
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: offset
+        weight: 1
+      - path: offset/ctrl_Main
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Bottom
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Bottom/Bottom
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Middle
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Middle/Middle
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Top
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Top/Top
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/SKELETON
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/SKELETON/joint_Bottom
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/SKELETON/joint_Middle
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/SKELETON/joint_Top
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/CTRLS 1
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/CTRLS 1/offset_Head
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/CTRLS 1/offset_Head/ctrl_Head
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/SKELETON 1
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/SKELETON 1/joint_Head
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Bottom 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Bottom 1/Bottom 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Middle 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Middle 1/Middle 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Top 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Top 1/Top 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/SKELETON 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/SKELETON 2/joint_Bottom 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/SKELETON 2/joint_Middle 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/SKELETON 2/joint_Top 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Bottom 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Bottom 2/Bottom 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Middle 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Middle 2/Middle 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Top 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Top 2/Top 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/SKELETON 3
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/SKELETON 3/joint_Bottom 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/SKELETON 3/joint_Middle 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/SKELETON 3/joint_Top 2
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_end
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_end/end
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid1
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid1/mid_1
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid2
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid2/mid_2
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid3
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid3/mid_3
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_root
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_root/root
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_end
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_mid1
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_mid2
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_mid3
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_root
+        weight: 1
+      - path: offset/ctrl_Main/offset_playerPos
+        weight: 1
+      - path: offset/ctrl_Main/offset_playerPos/playerPos
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Bottom 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Bottom 3/Bottom 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Middle 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Middle 3/Middle 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Top 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Top 3/Top 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/SKELETON 5
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/SKELETON 5/joint_Bottom 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/SKELETON 5/joint_Middle 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/SKELETON 5/joint_Top 3
+        weight: 1
+      - path: offset/ctrl_Main/WINGL
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Bottom 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Bottom 4/Bottom 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Middle 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Middle 4/Middle 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Top 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Top 4/Top 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/SKELETON 6
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/SKELETON 6/joint_Bottom 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/SKELETON 6/joint_Middle 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/SKELETON 6/joint_Top 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGR
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Bottom 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Bottom 5/Bottom 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Middle 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Middle 5/Middle 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Top 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Top 5/Top 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/SKELETON 7
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/SKELETON 7/joint_Bottom 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/SKELETON 7/joint_Middle 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/SKELETON 7/joint_Top 5
+        weight: 1
+      - path: offset/MESHES
+        weight: 1
+      - path: offset/MESHES/BODY
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/eye
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_01a
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_01b
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_02
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_03
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_04a
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_04b
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_05a
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_05b
+        weight: 1
+      - path: offset/MESHES/Feathers_L
+        weight: 1
+      - path: offset/MESHES/Feathers_R
+        weight: 1
+      - path: offset/MESHES/FOOT_L
+        weight: 1
+      - path: offset/MESHES/FOOT_R
+        weight: 1
+      - path: offset/MESHES/HEAD
+        weight: 1
+      - path: offset/MESHES/LEG_L
+        weight: 1
+      - path: offset/MESHES/LEG_R
+        weight: 1
+      - path: offset/MESHES/NECK
+        weight: 1
+      - path: offset/MESHES/TAIL
+        weight: 1
+      - path: offset/MESHES/WING_L
+        weight: 1
+      - path: offset/MESHES/WING_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 3D_vulture_special
+      takeName: Take 001
+      firstFrame: 181
+      lastFrame: 320
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: offset
+        weight: 1
+      - path: offset/ctrl_Main
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Bottom
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Bottom/Bottom
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Middle
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Middle/Middle
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Top
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Top/Top
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/SKELETON
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/SKELETON/joint_Bottom
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/SKELETON/joint_Middle
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/SKELETON/joint_Top
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/CTRLS 1
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/CTRLS 1/offset_Head
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/CTRLS 1/offset_Head/ctrl_Head
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/SKELETON 1
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/SKELETON 1/joint_Head
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Bottom 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Bottom 1/Bottom 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Middle 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Middle 1/Middle 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Top 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Top 1/Top 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/SKELETON 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/SKELETON 2/joint_Bottom 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/SKELETON 2/joint_Middle 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/SKELETON 2/joint_Top 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Bottom 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Bottom 2/Bottom 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Middle 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Middle 2/Middle 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Top 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Top 2/Top 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/SKELETON 3
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/SKELETON 3/joint_Bottom 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/SKELETON 3/joint_Middle 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/SKELETON 3/joint_Top 2
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_end
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_end/end
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid1
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid1/mid_1
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid2
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid2/mid_2
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid3
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid3/mid_3
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_root
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_root/root
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_end
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_mid1
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_mid2
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_mid3
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_root
+        weight: 1
+      - path: offset/ctrl_Main/offset_playerPos
+        weight: 1
+      - path: offset/ctrl_Main/offset_playerPos/playerPos
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Bottom 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Bottom 3/Bottom 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Middle 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Middle 3/Middle 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Top 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Top 3/Top 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/SKELETON 5
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/SKELETON 5/joint_Bottom 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/SKELETON 5/joint_Middle 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/SKELETON 5/joint_Top 3
+        weight: 1
+      - path: offset/ctrl_Main/WINGL
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Bottom 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Bottom 4/Bottom 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Middle 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Middle 4/Middle 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Top 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Top 4/Top 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/SKELETON 6
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/SKELETON 6/joint_Bottom 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/SKELETON 6/joint_Middle 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/SKELETON 6/joint_Top 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGR
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Bottom 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Bottom 5/Bottom 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Middle 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Middle 5/Middle 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Top 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Top 5/Top 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/SKELETON 7
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/SKELETON 7/joint_Bottom 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/SKELETON 7/joint_Middle 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/SKELETON 7/joint_Top 5
+        weight: 1
+      - path: offset/MESHES
+        weight: 1
+      - path: offset/MESHES/BODY
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/eye
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_01a
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_01b
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_02
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_03
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_04a
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_04b
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_05a
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_05b
+        weight: 1
+      - path: offset/MESHES/Feathers_L
+        weight: 1
+      - path: offset/MESHES/Feathers_R
+        weight: 1
+      - path: offset/MESHES/FOOT_L
+        weight: 1
+      - path: offset/MESHES/FOOT_R
+        weight: 1
+      - path: offset/MESHES/HEAD
+        weight: 1
+      - path: offset/MESHES/LEG_L
+        weight: 1
+      - path: offset/MESHES/LEG_R
+        weight: 1
+      - path: offset/MESHES/NECK
+        weight: 1
+      - path: offset/MESHES/TAIL
+        weight: 1
+      - path: offset/MESHES/WING_L
+        weight: 1
+      - path: offset/MESHES/WING_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 3D_vulture_idle
+      takeName: Take 001
+      firstFrame: 182
+      lastFrame: 191
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: offset
+        weight: 1
+      - path: offset/ctrl_Main
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Bottom
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Bottom/Bottom
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Middle
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Middle/Middle
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Top
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Top/Top
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/SKELETON
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/SKELETON/joint_Bottom
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/SKELETON/joint_Middle
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/SKELETON/joint_Top
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/CTRLS 1
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/CTRLS 1/offset_Head
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/CTRLS 1/offset_Head/ctrl_Head
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/SKELETON 1
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/SKELETON 1/joint_Head
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Bottom 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Bottom 1/Bottom 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Middle 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Middle 1/Middle 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Top 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Top 1/Top 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/SKELETON 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/SKELETON 2/joint_Bottom 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/SKELETON 2/joint_Middle 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/SKELETON 2/joint_Top 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Bottom 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Bottom 2/Bottom 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Middle 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Middle 2/Middle 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Top 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Top 2/Top 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/SKELETON 3
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/SKELETON 3/joint_Bottom 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/SKELETON 3/joint_Middle 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/SKELETON 3/joint_Top 2
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_end
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_end/end
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid1
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid1/mid_1
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid2
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid2/mid_2
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid3
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid3/mid_3
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_root
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_root/root
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_end
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_mid1
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_mid2
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_mid3
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_root
+        weight: 1
+      - path: offset/ctrl_Main/offset_playerPos
+        weight: 1
+      - path: offset/ctrl_Main/offset_playerPos/playerPos
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Bottom 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Bottom 3/Bottom 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Middle 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Middle 3/Middle 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Top 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Top 3/Top 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/SKELETON 5
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/SKELETON 5/joint_Bottom 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/SKELETON 5/joint_Middle 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/SKELETON 5/joint_Top 3
+        weight: 1
+      - path: offset/ctrl_Main/WINGL
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Bottom 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Bottom 4/Bottom 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Middle 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Middle 4/Middle 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Top 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Top 4/Top 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/SKELETON 6
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/SKELETON 6/joint_Bottom 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/SKELETON 6/joint_Middle 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/SKELETON 6/joint_Top 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGR
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Bottom 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Bottom 5/Bottom 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Middle 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Middle 5/Middle 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Top 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Top 5/Top 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/SKELETON 7
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/SKELETON 7/joint_Bottom 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/SKELETON 7/joint_Middle 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/SKELETON 7/joint_Top 5
+        weight: 1
+      - path: offset/MESHES
+        weight: 1
+      - path: offset/MESHES/BODY
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/eye
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_01a
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_01b
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_02
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_03
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_04a
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_04b
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_05a
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_05b
+        weight: 1
+      - path: offset/MESHES/Feathers_L
+        weight: 1
+      - path: offset/MESHES/Feathers_R
+        weight: 1
+      - path: offset/MESHES/FOOT_L
+        weight: 1
+      - path: offset/MESHES/FOOT_R
+        weight: 1
+      - path: offset/MESHES/HEAD
+        weight: 1
+      - path: offset/MESHES/LEG_L
+        weight: 1
+      - path: offset/MESHES/LEG_R
+        weight: 1
+      - path: offset/MESHES/NECK
+        weight: 1
+      - path: offset/MESHES/TAIL
+        weight: 1
+      - path: offset/MESHES/WING_L
+        weight: 1
+      - path: offset/MESHES/WING_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 3D_vulture_walk
+      takeName: Take 001
+      firstFrame: 321
+      lastFrame: 360
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: offset
+        weight: 1
+      - path: offset/ctrl_Main
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Bottom
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Bottom/Bottom
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Middle
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Middle/Middle
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Top
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Top/Top
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/SKELETON
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/SKELETON/joint_Bottom
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/SKELETON/joint_Middle
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/SKELETON/joint_Top
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/CTRLS 1
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/CTRLS 1/offset_Head
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/CTRLS 1/offset_Head/ctrl_Head
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/SKELETON 1
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/SKELETON 1/joint_Head
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Bottom 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Bottom 1/Bottom 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Middle 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Middle 1/Middle 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Top 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Top 1/Top 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/SKELETON 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/SKELETON 2/joint_Bottom 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/SKELETON 2/joint_Middle 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/SKELETON 2/joint_Top 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Bottom 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Bottom 2/Bottom 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Middle 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Middle 2/Middle 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Top 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Top 2/Top 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/SKELETON 3
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/SKELETON 3/joint_Bottom 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/SKELETON 3/joint_Middle 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/SKELETON 3/joint_Top 2
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_end
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_end/end
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid1
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid1/mid_1
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid2
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid2/mid_2
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid3
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid3/mid_3
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_root
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_root/root
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_end
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_mid1
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_mid2
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_mid3
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_root
+        weight: 1
+      - path: offset/ctrl_Main/offset_playerPos
+        weight: 1
+      - path: offset/ctrl_Main/offset_playerPos/playerPos
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Bottom 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Bottom 3/Bottom 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Middle 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Middle 3/Middle 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Top 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Top 3/Top 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/SKELETON 5
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/SKELETON 5/joint_Bottom 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/SKELETON 5/joint_Middle 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/SKELETON 5/joint_Top 3
+        weight: 1
+      - path: offset/ctrl_Main/WINGL
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Bottom 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Bottom 4/Bottom 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Middle 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Middle 4/Middle 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Top 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Top 4/Top 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/SKELETON 6
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/SKELETON 6/joint_Bottom 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/SKELETON 6/joint_Middle 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/SKELETON 6/joint_Top 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGR
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Bottom 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Bottom 5/Bottom 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Middle 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Middle 5/Middle 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Top 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Top 5/Top 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/SKELETON 7
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/SKELETON 7/joint_Bottom 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/SKELETON 7/joint_Middle 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/SKELETON 7/joint_Top 5
+        weight: 1
+      - path: offset/MESHES
+        weight: 1
+      - path: offset/MESHES/BODY
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/eye
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_01a
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_01b
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_02
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_03
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_04a
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_04b
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_05a
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_05b
+        weight: 1
+      - path: offset/MESHES/Feathers_L
+        weight: 1
+      - path: offset/MESHES/Feathers_R
+        weight: 1
+      - path: offset/MESHES/FOOT_L
+        weight: 1
+      - path: offset/MESHES/FOOT_R
+        weight: 1
+      - path: offset/MESHES/HEAD
+        weight: 1
+      - path: offset/MESHES/LEG_L
+        weight: 1
+      - path: offset/MESHES/LEG_R
+        weight: 1
+      - path: offset/MESHES/NECK
+        weight: 1
+      - path: offset/MESHES/TAIL
+        weight: 1
+      - path: offset/MESHES/WING_L
+        weight: 1
+      - path: offset/MESHES/WING_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: 3D_vulture_happy
+      takeName: Take 001
+      firstFrame: 362
+      lastFrame: 429
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: offset
+        weight: 1
+      - path: offset/ctrl_Main
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Bottom
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Bottom/Bottom
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Middle
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Middle/Middle
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Top
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/CTRLS/offset_Top/Top
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/SKELETON
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/SKELETON/joint_Bottom
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/SKELETON/joint_Middle
+        weight: 1
+      - path: offset/ctrl_Main/BODY 1/SKELETON/joint_Top
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/CTRLS 1
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/CTRLS 1/offset_Head
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/CTRLS 1/offset_Head/ctrl_Head
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/SKELETON 1
+        weight: 1
+      - path: offset/ctrl_Main/HEAD 1/SKELETON 1/joint_Head
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Bottom 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Bottom 1/Bottom 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Middle 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Middle 1/Middle 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Top 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/CTRLS 2/offset_Top 1/Top 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/SKELETON 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/SKELETON 2/joint_Bottom 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/SKELETON 2/joint_Middle 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_L 1/SKELETON 2/joint_Top 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Bottom 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Bottom 2/Bottom 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Middle 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Middle 2/Middle 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Top 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/CTRLS 3/offset_Top 2/Top 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/SKELETON 3
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/SKELETON 3/joint_Bottom 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/SKELETON 3/joint_Middle 2
+        weight: 1
+      - path: offset/ctrl_Main/LEG_R 1/SKELETON 3/joint_Top 2
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_end
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_end/end
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid1
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid1/mid_1
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid2
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid2/mid_2
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid3
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_mid3/mid_3
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_root
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/CTRLS 4/offset_root/root
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_end
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_mid1
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_mid2
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_mid3
+        weight: 1
+      - path: offset/ctrl_Main/NECK 1/SKELETON 4/joint_root
+        weight: 1
+      - path: offset/ctrl_Main/offset_playerPos
+        weight: 1
+      - path: offset/ctrl_Main/offset_playerPos/playerPos
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Bottom 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Bottom 3/Bottom 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Middle 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Middle 3/Middle 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Top 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/CTRLS 5/offset_Top 3/Top 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/SKELETON 5
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/SKELETON 5/joint_Bottom 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/SKELETON 5/joint_Middle 3
+        weight: 1
+      - path: offset/ctrl_Main/TAIL 1/SKELETON 5/joint_Top 3
+        weight: 1
+      - path: offset/ctrl_Main/WINGL
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Bottom 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Bottom 4/Bottom 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Middle 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Middle 4/Middle 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Top 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/CTRLS 6/offset_Top 4/Top 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/SKELETON 6
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/SKELETON 6/joint_Bottom 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/SKELETON 6/joint_Middle 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGL/SKELETON 6/joint_Top 4
+        weight: 1
+      - path: offset/ctrl_Main/WINGR
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Bottom 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Bottom 5/Bottom 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Middle 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Middle 5/Middle 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Top 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/CTRLS 7/offset_Top 5/Top 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/SKELETON 7
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/SKELETON 7/joint_Bottom 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/SKELETON 7/joint_Middle 5
+        weight: 1
+      - path: offset/ctrl_Main/WINGR/SKELETON 7/joint_Top 5
+        weight: 1
+      - path: offset/MESHES
+        weight: 1
+      - path: offset/MESHES/BODY
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/eye
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_01a
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_01b
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_02
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_03
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_04a
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_04b
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_05a
+        weight: 1
+      - path: offset/MESHES/DONOTBATCH/skin_05b
+        weight: 1
+      - path: offset/MESHES/Feathers_L
+        weight: 1
+      - path: offset/MESHES/Feathers_R
+        weight: 1
+      - path: offset/MESHES/FOOT_L
+        weight: 1
+      - path: offset/MESHES/FOOT_R
+        weight: 1
+      - path: offset/MESHES/HEAD
+        weight: 1
+      - path: offset/MESHES/LEG_L
+        weight: 1
+      - path: offset/MESHES/LEG_R
+        weight: 1
+      - path: offset/MESHES/NECK
+        weight: 1
+      - path: offset/MESHES/TAIL
+        weight: 1
+      - path: offset/MESHES/WING_L
+        weight: 1
+      - path: offset/MESHES/WING_R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
